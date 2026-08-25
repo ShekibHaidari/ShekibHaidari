@@ -4,8 +4,9 @@
 </div>
 
 <div align="center">
+  <!-- انیمیشن تایپینگ با سرور جدید -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Forging+the+Future+with+Artificial+Intelligence;Deconstructing+Complex+Algorithms;Bridging+Low-Level+Systems+and+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Forging+the+Future+with+Artificial+Intelligence;Deconstructing+Complex+Algorithms;Bridging+Low-Level+Systems+and+Machine+Learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,16 +35,16 @@ I am a visionary Computer Engineering student, rapidly evolving at the bleeding 
 ### 📊 GitHub Diagnostics & Activity
 
 <div align="center">
-  <!-- Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+  <!-- رفع مشکل کش گیت‌هاب با پارامترهای جدید -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekibHaidari&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShekibHaidari&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <!-- اضافه شدن پارامتر برای لود گراف -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShekibHaidari&theme=react-dark&hide_border=true&bg_color=0D1117&v=2" alt="Activity Graph" />
 </div>
 
 ---
