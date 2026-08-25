@@ -42,6 +42,18 @@ I am a visionary Computer Engineering student, rapidly evolving at the bleeding 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekibHaidari&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShekibHaidari/ShekibHaidari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShekibHaidari/ShekibHaidari/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ShekibHaidari/ShekibHaidari/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
 ### ⏱️ Live Server Status
 
 <div align="center">
