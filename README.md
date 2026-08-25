@@ -1,24 +1,56 @@
-## 👨‍💻 درباره من (About Me)
-من یک دانشجوی مهندسی کامپیوتر با اشتیاق بالا به حوزه هوش مصنوعی هستم. تمرکز اصلی من در حال حاضر روی درک عمیق الگوریتم‌های یادگیری ماشین و پیاده‌سازی آن‌هاست.
+<div align="center">
+  <!-- انیمیشن هدر بسیار حرفه‌ای -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shekib%20Haidari&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Machine%20Learning%20Wizard%20%7C%20Systems%20Architect&descSize=20&descAlignY=72" alt="Header Banner" />
+</div>
 
-* 🧠 **تمرکز فعلی:** یادگیری ماشین، بررسی هندسی نرم بردارها، و تجزیه ماتریس‌ها (مانند SVD و مقادیر ویژه).
-* 🔭 **تجربیات فنی:** توسعه سیستم‌های شبکه‌ای مبتنی بر سوکت، برنامه‌نویسی غیرهمزمان (Asyncio) و کار در محیط‌های لینوکسی (Ubuntu).
-* 🎨 **علایق جانبی:** ترکیب هوش مصنوعی با طراحی هویت بصری، ساخت انیمیشن و اجرای مدل‌های زبانی بزرگ (LLM) به صورت لوکال.
-* 💬 **از من بپرسید درباره:** پایتون، ساختارهای داده، و پیاده‌سازی مفاهیم ریاضی در کد.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Forging+the+Future+with+Artificial+Intelligence;Deconstructing+Complex+Algorithms;Bridging+Low-Level+Systems+and+Machine+Learning" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ زبان‌ها و ابزارهای یادگیری ماشین (Tech Stack)
+### 🚀 Architecting Intelligence & Engineering Systems
+
+I am a visionary Computer Engineering student, rapidly evolving at the bleeding edge of **Artificial Intelligence** and **Low-Level System Design**. I don't just consume APIs and frameworks; I deconstruct the mathematics behind them. From unraveling complex vector geometries and Matrix Factorizations (SVD) to engineering high-performance asynchronous network architectures, I build systems that scale, think, and perform.
+
+- 🧠 **Current Obsession:** Deep Machine Learning, Linear Algebra for AI, and advanced Mathematical Modeling.
+- ⚡ **Superpowers:** Crafting robust backend architectures (`asyncio`), C++ performance optimization, and absolute Linux (Ubuntu) mastery.
+- 🌌 **Vision:** Merging low-level hardware control (Embedded Systems/Arduino) with cutting-edge AI models.
+
+---
+
+### 💻 Arsenal & Tech Stack
 
 <div align="center">
-  <!-- زبان‌های برنامه‌نویسی -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br><br>
-  <!-- ابزارها و کتابخانه‌های دیتا و ماشین لرنینگ -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <!-- آیکون‌های متحرک و بسیار باکیفیت -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,linux,ubuntu,bash,arduino,scikit,tensorflow,git,github,vscode&perline=6" alt="Tech Stack" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Diagnostics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekibHaidari&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### ⏱️ Live Server Status
+
+<div align="center">
+  <p><i>Live timestamp synced via automated GitHub Actions</i></p>
+  
+<!-- TIME_START -->
+<!-- TIME_END -->
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=100&section=footer" alt="Footer Banner" />
 </div>
