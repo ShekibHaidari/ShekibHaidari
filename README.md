@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- انیمیشن هدر بسیار حرفه‌ای -->
+  <!-- Header Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shekib%20Haidari&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Machine%20Learning%20Wizard%20%7C%20Systems%20Architect&descSize=20&descAlignY=72" alt="Header Banner" />
 </div>
 
@@ -24,9 +24,8 @@ I am a visionary Computer Engineering student, rapidly evolving at the bleeding 
 ### 💻 Arsenal & Tech Stack
 
 <div align="center">
-  <!-- آیکون‌های متحرک و بسیار باکیفیت -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,linux,ubuntu,bash,arduino,scikit,tensorflow,git,github,vscode&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,linux,ubuntu,bash,arduino,sklearn,tensorflow,git,github,vscode&perline=6" alt="Tech Stack" />
   </a>
 </div>
 
@@ -35,8 +34,16 @@ I am a visionary Computer Engineering student, rapidly evolving at the bleeding 
 ### 📊 GitHub Diagnostics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- Stats & Streak Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekibHaidari&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShekibHaidari&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
@@ -47,11 +54,6 @@ I am a visionary Computer Engineering student, rapidly evolving at the bleeding 
   <p><i>Live timestamp synced via automated GitHub Actions</i></p>
   
 <!-- TIME_START -->
-<pre><code>[root@shekib-core-server ~]# systemctl status ai-brain
-● Active: online & computing
-[root@shekib-core-server ~]# date
-Tue, 25 Aug 2026 08:57:19 UTC
-</code></pre>
 <!-- TIME_END -->
 
 </div>
