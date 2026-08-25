@@ -35,19 +35,15 @@ I am a visionary Computer Engineering student, rapidly evolving at the bleeding 
 ### 📊 GitHub Diagnostics & Activity
 
 <div align="center">
-  <!-- رفع مشکل کش گیت‌هاب با پارامترهای جدید -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekibHaidari&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekibHaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=10)](https://github.com/ShekibHaidari)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShekibHaidari&theme=radical&hide_border=true&background=0D1117)](https://github.com/ShekibHaidari)
 
 <br>
 
-<div align="center">
-  <!-- اضافه شدن پارامتر برای لود گراف -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShekibHaidari&theme=react-dark&hide_border=true&bg_color=0D1117&v=2" alt="Activity Graph" />
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShekibHaidari&theme=react-dark&hide_border=true&bg_color=0D1117&cache_seconds=10)](https://github.com/ShekibHaidari)
 
----
+</div>
 
 ### ⏱️ Live Server Status
 
